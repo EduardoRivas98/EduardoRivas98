@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hello world! 👋🚀🌍
+
+I’m a full-stack developer who loves programming at all times 👾.
+I enjoy learning new things and collaborating with different people—it's what I love!
+
+
+[![Mi GIF](https://github.com/tuusuario/tu-repo/blob/main/imagen.gif)](https://github.com/tuusuario)
 
 <!--
 **EduardoRivas98/EduardoRivas98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
